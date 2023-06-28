@@ -1,4 +1,4 @@
-0.account_setup/configurations.tfvars
+#0.account_setup/configurations.tfvars
 workspace**
 custodian/output
 vault-demo/.terraform.lock.hcl
