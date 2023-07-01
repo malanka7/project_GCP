@@ -1,0 +1,7 @@
+organization=sonarcloud-demo-malanka7
+projectKey=sonarcloud-demo-malanka7_sonarcloud-emo-malanka7
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.42767
+dashboardUrl=https://sonarcloud.io/dashboard?id=sonarcloud-demo-malanka7_sonarcloud-emo-malanka7
+ceTaskId=AYjGX0CQ3xDrUXowunbO
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYjGX0CQ3xDrUXowunbO
